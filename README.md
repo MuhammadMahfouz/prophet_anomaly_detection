@@ -38,7 +38,7 @@ $$a(t) = \begin{cases} 1 & \text{if } y(t) > \hat{y}_{upper}(t) \\\\ 1 & \text{i
 
 ## 📊 Dataset
 
-The **ETTh dataset* contains two years of hourly readings (Jul 2016 – Jun 2018) from two electricity transformers in a Chinese province.
+The **ETTh dataset** contains two years of hourly readings (Jul 2016-Jun 2018) from two electricity transformers in a Chinese province.
 
 | Column | Description |
 |---|---|
